@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>群晖影视官网-卫视|在线|电视直播|在线观看|湖南|风云直播|卫视直播|网络|中央电视台|电视直播网</title>
+    <link rel="shortcut icon" href="./favicon.ico" />
+    <link href="template/default/css/mobilelive.css" rel="stylesheet">
+    <script src="template/default/js/jquery-1.11.1.min.js" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript" src="template/default/js/install.js"></script>
+    <script>
+    $(document).ready(function() {
+        $('.mobile-ct-wrapperfive').click(function() {
+            loading();
+        });
+    })
+   if (/AppleWebKit.*mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+        if (window.location.href.indexOf("?mobile") < 0) {
+            try {
+                if (!/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                    window.location.href = "./index.php";
+                }
+            } catch (e) {}
+        }
+    }
+    </script>
+    <script src="template/default/js/versionUpdate.js"></script>
+</head>
+
+<body>
+    <div class="mobile-ct-wrapperone">
+        <img src="template/default/images/wrapperonemobilebg.jpg" />
+        <a id="downurl" href="#" download="群晖影视.apk">安卓手机版下载</a>
+    </div>
+    <div class="mobile-ct-wrappertwo">
+        <img src="template/default/images/wraptwomobilebg.jpg">
+    </div>
+    <div class="mobile-ct-wrapperthree">
+        <img src="template/default/images/wrapthreemobilebg.jpg">
+    </div>
+    <div class="mobile-ct-wrapperfour">
+        <img src="template/default/images/wrapfourmobilebg.jpg">
+    </div>
+    <script>
+      $(function () {
+        $('#downurl').attr('href',versionUpdate().getLink())
+      })
+    </script>
+</body>
+
+</html>
