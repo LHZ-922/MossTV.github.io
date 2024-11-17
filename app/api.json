@@ -1,0 +1,16 @@
+{
+  "sites": [
+    {
+      "key": "MossTV",
+      "name": "MossTV",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://47.99.102.252/drpy_js/bulei.js"
+    }
+  ],
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "spider": "https://raw.gitcode.com/mz5308/YSC/raw/main/bh.jar"
+}
