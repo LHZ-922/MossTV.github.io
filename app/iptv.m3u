@@ -1,29 +1,59 @@
-[BD]凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.ctv
-[BD]凤凰卫视,https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
-[BD]凤凰香港,https://stream1.freetv.fun/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.ctv
-[BD]凤凰香港,https://stream1.freetv.fun/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
-[BD]凤凰中文,https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.m3u8
-[BD]凤凰中文,https://stream1.freetv.fun/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.m3u8
-[BD]凤凰中文,https://stream1.freetv.fun/a69efa1a0897a5f69ceed5b9cb6ee600febec9eb51447544a2d74a43cd89059e.m3u8
-[BD]凤凰中文,https://stream1.freetv.fun/62d74be30d8730ee2b7ff62c6e79642254209fc739c8c08065c467a083f9f8e4.m3u8
-[BD]凤凰中文,https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
-[BD]凤凰中文,https://stream1.freetv.fun/d8fce7760e85b1cf8932680772587d4066f09469626ffe0bc92504179e864e22.ctv
-[BD]凤凰中文,https://stream1.freetv.fun/bd38d1a5dbaa2affc43f53a29b1dd40af86adcf190d7f3f1b689843d0addbd2c.ctv
-[BD]凤凰中文,https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
-[BD]凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.ctv
-[BD]凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
-[BD]凤凰资讯,https://stream1.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.m3u8
-[BD]凤凰资讯,https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
-[BD]凤凰资讯,https://stream1.freetv.fun/694fdb1003254a4701099d3cb0b5ddd644fb51c13cf19eeab026440b3069d3c3.ctv
-[BD]凤凰资讯,https://stream1.freetv.fun/f28f307d60caeb98e000700b12f96fefab1d01f7c3fe468a91b003d9d00f6343.ctv
-[BD]凤凰资讯,https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv
-[BD]凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
-[BD]凤凰资讯,https://stream1.freetv.fun/c0c7420b2760bab1efaa334373f05df5c2e902bf08d4a8fca69abb0e84476b7a.ctv
-[BD]凤凰资讯,https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
-[HD]凤凰香港,https://stream1.freetv.fun/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.ctv
-[HD]凤凰香港,https://stream1.freetv.fun/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.ctv
-[HD]凤凰资讯,https://stream1.freetv.fun/a8150d95ef7cfb2f49dbbde2df2335f7bfd59ab4f3aeef08273b80aee5b137fe.m3u8
-[HD]凤凰资讯,https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv
-[SD]凤凰电影,https://stream1.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
-[SD]凤凰电影,https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
-[SD]凤凰中文,https://stream1.freetv.fun/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235948618467_91.png",[BD]凤凰卫视
+https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰卫视
+https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",[BD]凤凰香港
+https://stream1.freetv.fun/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",[BD]凤凰香港
+https://stream1.freetv.fun/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/a69efa1a0897a5f69ceed5b9cb6ee600febec9eb51447544a2d74a43cd89059e.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/62d74be30d8730ee2b7ff62c6e79642254209fc739c8c08065c467a083f9f8e4.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/d8fce7760e85b1cf8932680772587d4066f09469626ffe0bc92504179e864e22.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/bd38d1a5dbaa2affc43f53a29b1dd40af86adcf190d7f3f1b689843d0addbd2c.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[BD]凤凰中文
+https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+https://stream1.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+https://stream1.freetv.fun/694fdb1003254a4701099d3cb0b5ddd644fb51c13cf19eeab026440b3069d3c3.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+https://stream1.freetv.fun/f28f307d60caeb98e000700b12f96fefab1d01f7c3fe468a91b003d9d00f6343.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+https://stream1.freetv.fun/c0c7420b2760bab1efaa334373f05df5c2e902bf08d4a8fca69abb0e84476b7a.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",[HD]凤凰香港
+https://stream1.freetv.fun/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",[HD]凤凰香港
+https://stream1.freetv.fun/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[HD]凤凰资讯
+https://stream1.freetv.fun/a8150d95ef7cfb2f49dbbde2df2335f7bfd59ab4f3aeef08273b80aee5b137fe.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[HD]凤凰资讯
+https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170707446242_18.png",[SD]凤凰电影
+https://stream1.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170707446242_18.png",[SD]凤凰电影
+https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",[SD]凤凰中文
+https://stream1.freetv.fun/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.m3u8
