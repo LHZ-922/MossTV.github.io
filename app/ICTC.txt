@@ -74,7 +74,7 @@ CCTV17,http://moss.missyao.com:35456/jump?url=http%3A%2F%2F43.247.135.149%3A3545
 青海卫视,http://moss.missyao.com:35456/jump?url=http%3A%2F%2F43.247.135.149%3A35455%2Fitv%2F1000000002000013359.m3u8%3Fcdn%3Dystenlive$itv
 三沙卫视,http://moss.missyao.com:35456/jump?url=http%3A%2F%2F43.247.135.149%3A35455%2Ftptv%2FG_SANSHA-HQ.m3u8$tptv
 
-港澳台,#genre#
+港澳台频道,#genre#
 Channel 5 HD,http://43.247.135.149:8151/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://43.247.135.149:8151/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U HD,http://43.247.135.149:8151/AKTV/live/aktv/channeluhd/AKTV.m3u8
