@@ -1,3 +1,8 @@
+中国移动「香港」,#genre#
+凤凰卫视香港,http://223.16.133.25:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
+鳳凰中文,http://43.247.135.149:8151/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://43.247.135.149:8151/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://43.247.135.149:8151/AKTV/live/aktv/null-5/AKTV.m3u8
 中国移动「🅐」,#genre#
 CCTV1,http://223.16.133.25:35455/ysptp/cctv1.m3u8
 CCTV1,http://223.16.133.25:35455/tptv/G_CCTV-1-AVS-4K264.m3u8
@@ -302,9 +307,6 @@ IHOT爱院线,http://223.16.133.25:35455/itv/6000000006000030630.m3u8?cdn=wasusy
 咪咕4k,http://223.16.133.25:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 咪咕4k,http://223.16.133.25:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
-香港,#genre#
-凤凰卫视香港,http://223.16.133.25:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
-
 中国移动「🅑」,#genre#
 CCTV 1,http://gslbserv.itv.cmvideo.cn:80/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=IPTV
 CCTV 1 50 FPS,http://gslbserv.itv.cmvideo.cn:80/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=IPTV
@@ -495,7 +497,6 @@ iHOT 爱喜剧,http://gslbserv.itv.cmvideo.cn:80/6000000006000010630/1.m3u8?chan
 iHOT 爱悬疑,http://gslbserv.itv.cmvideo.cn:80/6000000006000050630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=IPTV
 iHOT 爱幼教,http://gslbserv.itv.cmvideo.cn:80/6000000006000180630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=IPTV
 iHOT 爱院线,http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=IPTV
-
 
 央视频道,#genre#
 CCTV1,http://ipcv.missyao.top:35456/jump?url=http%3A%2F%2Fipcv.missyao.top%3A35455%2Fysptp%2Fcctv1.m3u8$ysptp-高码#http://ipcv.missyao.top:35456/jump?url=http%3A%2F%2Fipcv.missyao.top%3A35455%2Fitv%2F6000000001000029752.m3u8%3Fcdn%3Dwasusyt$itv#http://ipcv.missyao.top:35456/jump?url=http%3A%2F%2Fipcv.missyao.top%3A35455%2Fitv%2F5000000004000002226.m3u8%3Fcdn%3Dbestzb$itv-50-FPS#http://ipcv.missyao.top:35456/jump?url=http%3A%2F%2Fipcv.missyao.top%3A35455%2Fitv%2F1000000005000265001.m3u8%3Fcdn%3Dystenlive$itv-HEVC
