@@ -4,7 +4,7 @@
 251=局域网服务器|逍遥传奇180|逍遥传奇180|192.168.20.23|7000|1|192.168.20.23|0|0|0
 251=单机服务器|逍遥传奇180|逍遥传奇180|127.0.0.1|7000|1|127.0.0.1|0|0|0
 251=公网服务器|逍遥传奇180|逍遥传奇180|nvr.fshfgr.top|7000|1|nvr.fshfgr.top|0|0|0
-251=IPv6|逍遥传奇180|逍遥传奇180|nvr.fshfgr.top|7000|1|nvr.fshfgr.top|0|0|0
+251=IPv6|逍遥传奇180|逍遥传奇180|cd2.missyao.com|7000|1|cd2.missyao.com|0|0|0
 
 ;注：列表服务器头的251数值为列表文字颜色，需要更换颜色请参考说明书颜色值列表！
 
@@ -69,6 +69,7 @@
 ;5=2     Resources\Map     ResMap.zip     fdc49e06560f62ddbc5c178d3c02b736     http://www.haom2.com/ResMap.zip
 ;6=2     Resources\Wav     ResWav.zip     fdc49e06560f62ddbc5c178d3c02b736     http://www.haom2.com/ResWav.zip
 ;7=2     Resources\Graphics\Human     Human.zip     fdc49e06560f62ddbc5c178d3c02b736     http://www.haom2.com/Human.zip
+
 
 
 
